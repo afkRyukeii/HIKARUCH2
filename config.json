@@ -1,0 +1,36 @@
+{
+    "ownerNumber": "6285338015659@s.whatsapp.net", 
+    "ownerName": "Ryukei", 
+    "botName": "HIKARU-OFC",
+    "footer": "© HIKARU | CHAN", 
+    "sessionName": "session", 
+    "pathimg": "./media/logo.jpg", 
+    "pathsawer": "./media/logo2.jpg",
+    "group": "https://chat.whatsapp.com/LZX0YlFpmXDGdlWW70ZpcJ",
+    "yootube": "-",
+     
+    "Saweria Qris": "https://saweria.co/RyuuuXD",
+    "textBarisDonate1": "Dana : 0852-2622-8791",
+    "textBarisDonate2": "Ovo : -",
+    "textBarisDonate3": "Gopay : 0853-3801-5659",
+    "textBarisDonate4": "Pulsa : -",
+  
+    "ButtonTextMenu1": "Youtube",
+    "ButtonTextMenu2": "Github",
+    "quickReplyButton3": "Rules",
+    "quickReplyButton4": "Donasi",
+    "quickReplyButton5": "Dashboard",
+  
+    "ButtonMenuLink1": "https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg",
+    "ButtonMenuLink2": "https://github.com/afkRyukeii",
+    "displayTextMenu3": "rules",
+    "displayTextMenu4": "donasi",
+    "displayTextMenu5": "dashboard",
+    "limitCount": 100,
+    "limitGame": 35,
+    "gamewaktu": 90,
+    "sticker": {
+        "packname": "© Hikaru",
+        "author": "RYUKEI OFC"
+    }
+}
